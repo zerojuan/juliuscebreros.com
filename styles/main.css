@@ -1,0 +1,10 @@
+body {
+    background: #f0f0f0;
+    font-family: Courier New, Courier, monospace;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+h1, h2, h3 {
+    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+}

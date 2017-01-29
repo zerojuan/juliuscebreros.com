@@ -1,0 +1,9 @@
+body {
+    background: #061CFF;
+    color: white;
+    font-family: Courier New, Courier, monospace;
+}
+
+h1, h2, h3 {
+    font-family: "Lucida Sans Typewriter", "Lucida Console", monaco, "Bitstream Vera Sans Mono", monospace;
+}
