@@ -7,7 +7,7 @@ jobs:
       name: node/default
     steps:
       - checkout
-      - run: ssh -oStrictHostKeyChecking=no -v circleci@juliuscebreros.com
+      - run: sh ./deploy/run.sh
 workflows:
   deploy:
     jobs:
